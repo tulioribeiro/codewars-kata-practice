@@ -1,0 +1,16 @@
+{
+  "name": "codewars-kata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "quarter-of-the-year.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19",
+    "prettier": "^2.7.1"
+  }
+}
